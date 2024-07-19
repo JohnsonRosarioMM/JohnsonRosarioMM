@@ -1,16 +1,16 @@
-Hi 👋, I'm Johnson Rosario 🧑‍💻
+##Hi 👋, I'm Johnson Rosario 🧑‍💻
 
 
-I'm learning MERN fullstack development.
+#####I'm learning MERN fullstack development.
 
-📚 I'm Currently learning...
+######📚 I'm Currently learning...
 
-      -FrontEnd - HTML, CSS, REACT, JavaScript
-      -BackEnd - Node.Js
-      -Database - MangoDB
+      -FrontEnd: HTML, CSS, REACT, JavaScript
+      -BackEnd: Node.Js
+      -Database: MangoDB
 
   
-Mini projects:
+######Mini projects:
 
 <a href="https://flames-johnson-rosario.netlify.app/">FLAMES APP</a>
 <br>

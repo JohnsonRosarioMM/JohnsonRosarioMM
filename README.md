@@ -1,4 +1,4 @@
-![react](https://github.com/user-attachments/assets/c93c0cd9-37c2-4e16-9b7f-42639099d9e8)
+
 ![nodejs](https://github.com/user-attachments/assets/be1bac17-2d7f-4d17-af48-b03dcac006a3)
 ![mangoDB](https://github.com/user-attachments/assets/f93a6f43-82ff-47c6-abe1-ffe23f209bae)
 ![linkedin](https://github.com/user-attachments/assets/56152461-dd4d-42dd-811e-8327329bdd3b)
@@ -74,7 +74,7 @@ img{
     <img src="html.png"/>
     <img src="css.png"/>
     <img src="JS.png"/>
-    <img src="react.png"/>
+    <img src="![react](https://github.com/user-attachments/assets/c93c0cd9-37c2-4e16-9b7f-42639099d9e8)"/>
     <h4><u>BackEnd , Database & Cloud</u></h4>
     <img src="nodejs.png"/>
     <img src="mangoDB.png"/>

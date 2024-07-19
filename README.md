@@ -5,8 +5,8 @@ I'm learning MERN fullstack development.
 
 📚 I'm Currently learning...
 
-  FrontEnd - HTML, CSS, REACT, JavaScript;
-  BackEnd - Node.Js;
+  FrontEnd - HTML, CSS, REACT, JavaScript;<br>
+  BackEnd - Node.Js;<br>
   Database - MangoDB.
 
 Mini projects:

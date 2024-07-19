@@ -81,7 +81,15 @@ img{
     <img src="aws.png"/>
     <h4><u>Mini projects:</u></h4>
     <a href="https://flames-johnson-rosario.netlify.app/"><button class="btnf">FLAMES APP</button></a>
-    <a href="https://resume-johnson-rosario.netlify.app/"><button class="btnr">My Resume</button></a>
+    <a style="margin: 0 15px 0 15px;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(to right,white, grey);
+    -webkit-box-shadow: inset 0px 0px 3px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px 0px 3px 1px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 0px 3px 1px rgba(0,0,0,0.75);" href="https://resume-johnson-rosario.netlify.app/"><button class="btnr">My Resume</button></a>
     <h4>Connect with me</h4>
     <a href="https://www.linkedin.com/in/johnson-rosario-m/"><img class="shadow" src="linkedin.png"/></a>
 </div>

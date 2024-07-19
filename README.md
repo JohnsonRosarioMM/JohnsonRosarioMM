@@ -5,9 +5,9 @@
 
 ######📚 I'm Currently learning...
 
-      -FrontEnd: HTML, CSS, REACT, JavaScript
-      -BackEnd: Node.Js
-      -Database: MangoDB
+-FrontEnd: HTML, CSS, REACT, JavaScript
+-BackEnd: Node.Js
+-Database: MangoDB
 
   
 ######Mini projects:
